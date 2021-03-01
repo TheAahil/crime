@@ -174,8 +174,8 @@ jalan("\033[1;96m╱╱╱╱╰╯")
 jalan('\033[1;93m              Welcome to BlackMafia')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "SpiderMan"
-CorrectPassword = "lovehacker"
+CorrectUsername = "Rana"
+CorrectPassword = "Rana"
 
 loop = 'true'
 while (loop == 'true'):
